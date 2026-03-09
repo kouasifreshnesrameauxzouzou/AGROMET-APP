@@ -161,7 +161,7 @@ st.markdown(f"""
     {logo_img}
     <div class="rbm-title-block">
       <div class="rbm-title">AGROMET CI</div>
-      <div class="rbm-subtitle">📻 Annonces pastorales & météo</div>
+      <div class="rbm-subtitle">📻 Annonces Agrométérogique</div>
     </div>
   </div>
 </div>
@@ -304,7 +304,7 @@ elif st.session_state.page == "about":
       <h2 style="font-family:Quicksand,sans-serif;font-weight:800;color:#004C97;margin:0;">
         AGROMET CI
       </h2>
-      <p style="color:#888;font-size:13px;margin-top:4px;">Application d'annonces pastorales</p>
+      <p style="color:#888;font-size:13px;margin-top:4px;">Application Agrometerogique</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -423,7 +423,7 @@ st.markdown(f"""
 <div class="bottom-nav">
   <a class="nav-btn nav-home" href="?page=home" title="Accueil">🏠</a>
   <div style="font-family:Quicksand,sans-serif;font-size:11px;color:#999;text-align:center;">
-    <div style="font-weight:800;color:#004C97;font-size:13px;">RBM</div>
+    <div style="font-weight:800;color:#004C97;font-size:13px;">AGROMET CI</div>
     <div>v1.1</div>
   </div>
   <a class="nav-btn nav-wa" href="{wa_link}" target="_blank" title="Contacter via WhatsApp">
