@@ -6,7 +6,7 @@ import base64
 
 # ─── Config ────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="RBM – AGROMET CI",
+    page_title=" AGROMET CI",
     page_icon="📻",
     layout="centered",
     initial_sidebar_state="collapsed"
