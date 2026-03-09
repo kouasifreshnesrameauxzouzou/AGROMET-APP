@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2026-03-08_baoulé",
+    "date": "2026-03-08",
+    "language": "Baoulé",
+    "description": "",
+    "audio_path": "audio_files\\2026-03-08_baoulé_Baoule.ogg",
+    "created_at": "2026-03-08T19:26:36.712812"
+  },
+  {
+    "id": "2026-03-08_bété",
+    "date": "2026-03-08",
+    "language": "Bété",
+    "description": "",
+    "audio_path": "audio_files\\2026-03-08_bété_Bete.ogg",
+    "created_at": "2026-03-08T19:26:54.705504"
+  },
+  {
+    "id": "2026-03-08_dioula",
+    "date": "2026-03-08",
+    "language": "Dioula",
+    "description": "",
+    "audio_path": "audio_files\\2026-03-08_dioula_Dioula.ogg",
+    "created_at": "2026-03-08T19:27:08.783159"
+  }
+]
