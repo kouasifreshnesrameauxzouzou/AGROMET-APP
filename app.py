@@ -12,7 +12,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-ADMIN_PASSWORD = "rbm2026"
+ADMIN_PASSWORD = "Agromet2026"
 AUDIO_DIR = "audio_files"
 META_FILE = "announcements.json"
 os.makedirs(AUDIO_DIR, exist_ok=True)
